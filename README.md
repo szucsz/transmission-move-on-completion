@@ -36,7 +36,7 @@ e.g.:
 .
 ```
 
-5. Reload configuration from `settings.json`
+5. Reload Transmission Daemon configuration from `settings.json`
 
 ```
 $ killall -HUP transmission-da
